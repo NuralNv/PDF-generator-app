@@ -55,7 +55,4 @@ A simple Python script that generates a multi-page PDF report from a CSV file. E
 
 - `output.pdf` is generated locally and is not tracked in this repository (see `.gitignore`).
 - `topics.csv` should be created or modified by the user based on the format above.
-
-## License
-
-This project is open source and available under the MIT License.
+- 
